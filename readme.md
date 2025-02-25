@@ -1,2 +1,2 @@
 // Tsetlin Machine projects development process:
-//1. recurrent TM
+//1. Recurrent TM base on pyTsetlinMachine Project
